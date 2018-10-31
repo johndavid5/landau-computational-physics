@@ -1,7 +1,7 @@
 Personal plunkings from...
 
-  __Computational__Physics__
-  _Problem_Solving_with_Python_
+  __Computational__ __Physics__
+  _Problem_ _Solving_ _with_ _Python_
   Third Edition
   by Rubin H. Landau, Manuel J. Páez and Christian C. Bordeianu
 
