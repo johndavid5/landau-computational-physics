@@ -1,9 +1,9 @@
 Personal plunkings from...
 
-  __Computational__ __Physics__
-  _Problem_ _Solving_ _with_ _Python_
-  Third Edition
-  by Rubin H. Landau, Manuel J. Páez and Christian C. Bordeianu
+ __Computational__ __Physics__<br/>
+_Problem_ _Solving_ _with_ _Python_<br/>
+Third Edition<br/>
+by Rubin H. Landau, Manuel J. Páez and Christian C. Bordeianu
 
 The Book's Website (with Video Lectures, Quizzes and Slides by Professor Landau):
 ---------------------------------------------------------------------------------
