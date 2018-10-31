@@ -1,0 +1,37 @@
+Using Anaconda Cloud api site https://api.anaconda.org
+Run 'anaconda show <USER/PACKAGE>' to get more details:
+Packages:
+     Name                      |  Version | Package Types   | Platforms      
+     ------------------------- |   ------ | --------------- | ---------------
+     BioBuilds/perl-text-soundex |     3.05 | conda           | linux-ppc64le, linux-64, osx-64
+                                          : Implementation of the soundex algorithm.
+     auto/cmsplugin_soundcloud |      1.0 | conda           | linux-64, linux-32
+                                          : https://github.com/misli/cmsplugin-soundcloud
+     auto/datasounds           |    1.2.0 | conda           | linux-64, linux-32
+                                          : http://www.datasounds.org
+     auto/pysoundcard          |    0.5.0 | conda           | linux-64       
+                                          : https://github.com/bastibe/PySoundCard
+     auto/pysoundfile          |    0.5.0 | conda           | linux-64       
+                                          : https://github.com/bastibe/PySoundFile
+     bioconda/perl-text-soundex |     3.05 | conda           | linux-64, osx-64
+                                          : Implementation of the soundex algorithm.
+     erik/pysoundcard          |    0.5.0 | conda           | linux-64, osx-64
+                                          : An audio library based on PortAudio, CFFI and NumPy
+     erik/pysoundfile          |    0.5.0 | conda           | linux-64, osx-64
+                                          : An audio library based on libsndfile, CFFI and NumPy
+     groakat/sound4python      |    0.0.1 | conda           | win-32, win-64, osx-64
+     jcarlin/pysoundcard       |    0.5.2 | conda           | osx-64         
+                                          : An audio library based on PortAudio, CFFI and NumPy
+     jcarlin/pysoundfile       |    0.8.1 | conda           | osx-64         
+                                          : An audio library based on libsndfile, CFFI and NumPy
+     poppy-project/sounddevice |    0.3.1 | conda           | linux-armv7l   
+                                          : Play and Record Sound with Python
+     stvo/Pysoundcard          |    0.5.0 | conda           | osx-64         
+                                          : Pysoundcard for python 3.4 and numpy 1.9
+     trung/pysoundfile         |    0.8.1 | conda           | linux-64, osx-64
+                                          : An audio library based on libsndfile, CFFI and NumPy
+     ver228/pysoundcard        |    0.5.0 | conda           | osx-64         
+                                          : An audio library based on PortAudio, CFFI and NumPy
+     ver228/pysoundfile        |    0.6.0 | conda           | osx-64         
+                                          : An audio library based on libsndfile, CFFI and NumPy
+Found 16 packages
