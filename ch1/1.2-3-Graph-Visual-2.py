@@ -1,8 +1,8 @@
 from visual import *
 from visual.graph import *
 
-string = "red: sin(x), blue: cos(x), magenta: sin(x)*cos(x)"
-graph1 = gdisplay(title=string, xtitle='x', ytitle='y')
+s_title = "red: sin(x), blue: cos(x), magenta: sin(x)*cos(x)"
+graph1 = gdisplay(title=s_title, xtitle='x', ytitle='y', ymin = -2, ymax = 2)
 
 y1 = gcurve(color=color.red) #curve
 y2 = gcurve(color=color.blue) 

@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "02-import-as-example-do-nothing.py", line 3, in <module>
-    y1 = p.gcurve( color = blue, delta = 3 ) # Use of visual.graph as p
-NameError: name 'blue' is not defined

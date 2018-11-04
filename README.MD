@@ -8,9 +8,17 @@ Personal plunkings from...
 The Book's Website (with Video Lectures, Quizzes and Slides by Professor Landau):
 ---------------------------------------------------------------------------------
 http://physics.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/
+http://physics.oregonstate.edu/~landaur/COURSES/ph464/index.html
+
+Sample Code:
+------------
+http://physics.oregonstate.edu/~landaur/Books/CPbook/Codes/index.html
+http://physics.oregonstate.edu/~landaur/Books/CPbook/Codes/PythonCodes/
 
 Useful Python References:
 -------------------------
-http://vpython.org/contents/docs/color.html
+Visual Python: 
 http://vpython.org/contents/docs/graph.html
+http://vpython.org/contents/docs/color.html
 http://vpython.org/contents/bounce_example.html
+http://vpython.org/contents/docs/VPython_Intro.pdf

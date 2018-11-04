@@ -1,10 +1,11 @@
+# http://physics.oregonstate.edu/~landaur/Books/CPbook/Codes/PythonCodes/HarmosAnimate.py
 """ From "COMPUTATIONAL PHYSICS", 3rd Ed, Enlarged Python eTextBook  
     by RH Landau, MJ Paez, and CC Bordeianu
     Copyright Wiley-VCH Verlag GmbH & Co. KGaA, Berlin;  Copyright R Landau,
     Oregon State Unv, MJ Paez, Univ Antioquia, C Bordeianu, Univ Bucharest, 2015.
     Support by National Science Foundation"""
 
-# HarmonsAnimate: Soltn of t-dependent Sch Eqt fro HO with animation
+# HarmosAnimate: Soltn of t-dependent Sch Eqt fro HO with animation
 
 from visual import *
 
