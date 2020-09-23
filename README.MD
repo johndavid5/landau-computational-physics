@@ -10,8 +10,8 @@ The Book's Website (with Video Lectures, Quizzes and Slides by Professor Landau)
 http://physics.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/
 http://physics.oregonstate.edu/~landaur/COURSES/ph464/index.html
 
-Sample Code:
-------------
+Sample Code (or "Codes"):
+-------------------------
 http://physics.oregonstate.edu/~landaur/Books/CPbook/Codes/index.html
 http://physics.oregonstate.edu/~landaur/Books/CPbook/Codes/PythonCodes/
 
